@@ -2,8 +2,7 @@
 # 🌿 EcoTrack – Carbon Footprint Dashboard
 
 > Built by **Team FloppyDisk** 🖴  
-Track, analyze & reduce your carbon impact like a boss.  
-No fluff – just clean data, sick UI, and real change.
+Track, analyze & reduce your carbon impact.
 
 ## 🔥 What’s This?
 
