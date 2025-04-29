@@ -34,9 +34,9 @@ No fluff – just clean data, sick UI, and real change.
 
 ## 📸 Sneak Peek
 
-![EcoTrack Dashboard Screenshot](./9f2d18a0-f2b4-4ecb-a820-d72707eed068.png)
-
-
+![EcoTrack Dashboard Screenshot](asset/1.png)
+![EcoTrack Dashboard Screenshot](asset/2.png)
+![EcoTrack Dashboard Screenshot](asset/3.png)
 
 ## 🧩 Future Upgrades
 
