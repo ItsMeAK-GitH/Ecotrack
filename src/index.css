@@ -1,0 +1,104 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 60 30% 98%;
+    --foreground: 157 23% 31%;
+
+    --card: 60 30% 98%;
+    --card-foreground: 157 23% 31%;
+
+    --popover: 60 30% 98%;
+    --popover-foreground: 157 23% 31%;
+
+    --primary: 157 23% 31%;
+    --primary-foreground: 60 30% 98%;
+
+    --secondary: 120 17% 63%;
+    --secondary-foreground: 157 23% 31%;
+
+    --muted: 40 30% 92%;
+    --muted-foreground: 157 8% 45%;
+
+    --accent: 36 33% 84%;
+    --accent-foreground: 157 23% 31%;
+
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 60 30% 98%;
+
+    --border: 36 20% 90%;
+    --input: 36 20% 90%;
+    --ring: 157 23% 31%;
+
+    --radius: 1rem;
+  }
+
+  .dark {
+    --background: 222 47% 11%;
+    --foreground: 210 40% 98%;
+
+    --card: 215 28% 17%;
+    --card-foreground: 210 40% 98%;
+
+    --popover: 215 28% 17%;
+    --popover-foreground: 210 40% 98%;
+
+    --primary: 210 40% 98%;
+    --primary-foreground: 222 47% 11%;
+
+    --secondary: 130 25% 58%;
+    --secondary-foreground: 215 28% 17%;
+
+    --muted: 215 28% 25%;
+    --muted-foreground: 210 40% 70%;
+
+    --accent: 215 28% 25%;
+    --accent-foreground: 210 40% 98%;
+
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 210 40% 98%;
+
+    --border: 215 28% 25%;
+    --input: 215 28% 25%;
+    --ring: 210 40% 98%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-eco-background text-foreground antialiased;
+  }
+}
+
+@layer components {
+  .eco-card {
+    @apply bg-white rounded-xl shadow-sm border border-eco-tertiary/20 p-6 transition-all hover:shadow-md dark:bg-slate-800 dark:border-slate-700 dark:hover:shadow-slate-700/20;
+  }
+  
+  .eco-badge {
+    @apply inline-flex items-center rounded-full px-3 py-1 text-sm font-medium bg-eco-secondary/20 text-eco-primary dark:bg-eco-secondary/30 dark:text-white;
+  }
+  
+  .eco-btn-primary {
+    @apply bg-eco-primary hover:bg-eco-primary/90 text-white rounded-full px-6 py-2 font-medium transition-all shadow-sm hover:shadow dark:bg-eco-secondary dark:hover:bg-eco-secondary/90;
+  }
+  
+  .eco-btn-secondary {
+    @apply bg-eco-secondary hover:bg-eco-secondary/90 text-white rounded-full px-6 py-2 font-medium transition-all shadow-sm hover:shadow dark:bg-slate-700 dark:hover:bg-slate-600;
+  }
+  
+  .eco-progress-bg {
+    @apply bg-eco-tertiary/30 rounded-full h-2 dark:bg-slate-700;
+  }
+  
+  .eco-progress-fill {
+    @apply bg-eco-secondary rounded-full h-full animate-pulse-subtle dark:bg-eco-secondary/80;
+  }
+}
