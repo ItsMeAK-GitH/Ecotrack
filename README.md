@@ -1,73 +1,50 @@
-# Welcome to your Lovable project
 
-## Project info
+# 🌿 EcoTrack – Carbon Footprint Dashboard
 
-**URL**: https://lovable.dev/projects/75a7fd98-3aa8-466f-904a-c2425135b322
+> Built by **Team FloppyDisk** 🖴  
+Track, analyze & reduce your carbon impact like a boss.  
+No fluff – just clean data, sick UI, and real change.
 
-## How can I edit this code?
+## 🔥 What’s This?
 
-There are several ways of editing your application.
+**EcoTrack** is a web-based dashboard that visualizes your annual carbon footprint and monthly reductions across key categories like transport, energy, and food. It gamifies sustainability with badges and gives eco-tips to keep you locked in on your green goals.
 
-**Use Lovable**
+## 🚀 Features
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/75a7fd98-3aa8-466f-904a-c2425135b322) and start prompting.
+- 📉 **Real-time Carbon Stats**:  
+  View your current CO₂e/year and how you stack up against national averages.
+  
+- 🔄 **Monthly Reduction Breakdown**:  
+  See your carbon cuts – tracked by transport, energy, and food.
 
-Changes made via Lovable will be committed automatically to this repo.
+- 🏆 **Achievements**:  
+  Badges like *Plant Based*, *Energy Saver*, and *Low Impact* keep you motivated.
 
-**Use your preferred IDE**
+- 📊 **Carbon Impact by Category**:  
+  Visual distribution of which activities hit the environment hardest.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+- 🌙 **Dark Mode Support**:  
+  Go green, even in the dark.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+## 🧠 Tech Stack
 
-Follow these steps:
+- **Frontend**: HTML, CSS (Tailwind), JavaScript, Node
+- **Design**: Figma for wireframes + custom icon set
+- **Deployment**: GitHub Pages / Vercel (flexible)
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+## 📸 Sneak Peek
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+![EcoTrack Dashboard Screenshot](./9f2d18a0-f2b4-4ecb-a820-d72707eed068.png)
 
-# Step 3: Install the necessary dependencies.
-npm i
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
 
-**Edit a file directly in GitHub**
+## 🧩 Future Upgrades
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+- 🌍 API integration for real-time environmental data
+- 📱 Responsive mobile UI
+- 🔔 Notification system for monthly goals
+- 💾 User accounts & data sync
 
-**Use GitHub Codespaces**
+## 🧠 Team FloppyDisk
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
 
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/75a7fd98-3aa8-466f-904a-c2425135b322) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
