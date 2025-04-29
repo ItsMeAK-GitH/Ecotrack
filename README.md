@@ -28,7 +28,7 @@ No fluff – just clean data, sick UI, and real change.
 
 ## 🧠 Tech Stack
 
-- **Frontend**: HTML, CSS (Tailwind), JavaScript, Node
+- **Frontend**: HTML, CSS (Tailwind), JavaScript, Node, React
 - **Design**: Figma for wireframes + custom icon set
 - **Deployment**: GitHub Pages / Vercel (flexible)
 
