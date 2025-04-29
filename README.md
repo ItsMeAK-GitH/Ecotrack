@@ -27,7 +27,7 @@ Track, analyze & reduce your carbon impact.
 
 ## 🧠 Tech Stack
 
-- **Frontend**: HTML, CSS (Tailwind), JavaScript, Node, React
+- **Frontend**: HTML, CSS, JavaScript, Typescript, Node, React
 - **Design**: Figma for wireframes + custom icon set
 - **Deployment**: GitHub Pages / Vercel (flexible)
 
