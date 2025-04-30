@@ -29,7 +29,6 @@ Track, analyze & reduce your carbon impact.
 
 - **Frontend**: HTML, CSS, JavaScript, Typescript, Node, React
 - **Design**: Figma for wireframes + custom icon set
-- **Deployment**: GitHub Pages / Vercel (flexible)
 
 ## 📸 Sneak Peek
 
