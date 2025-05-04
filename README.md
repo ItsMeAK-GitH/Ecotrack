@@ -1,5 +1,5 @@
 
-# 🌿 EcoTrack – Carbon Footprint Dashboard.
+# 🌿 EcoTrack – Carbon Footprint Dashboard
 
 > Built by **Team FloppyDisk** 🖴  
 Track, analyze & reduce your carbon impact.
