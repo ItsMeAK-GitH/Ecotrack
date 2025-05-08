@@ -1,7 +1,7 @@
 
 # 🌿 EcoTrack – Carbon Footprint Dashboard
 
-> Built by **Team FloppyDisk** 🖴  
+> Built by **Team FloppyDisk** 🖴
 Track, analyze & reduce your carbon impact.
 
 ## 🔥 What’s This?
